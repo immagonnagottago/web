@@ -3,7 +3,6 @@ import re
 
 # 1. Configure where your site folders are
 SITE_DIRS = ["../site1", "../site2"]  # relative to search.py
-
 # 2. Build inverted index
 index = {}
 
